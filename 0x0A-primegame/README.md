@@ -1,0 +1,1 @@
+Solutions To Alx 0x0A. Prime Game
